@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=cook+islands+colonial+new+zealand",
+  "final_url": "https://www.loc.gov/item/?q=cook+islands+colonial+new+zealand",
+  "title": "Library of Congress - Cook Islands",
+  "fetched_at": "2026-11-23T09:26:07.516398Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44588,
+  "sha256": "f5e21b5defa248aa0a9a8e7aec4ca3342a9d8c8b0f5b90da0498cbacab7f0bca",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

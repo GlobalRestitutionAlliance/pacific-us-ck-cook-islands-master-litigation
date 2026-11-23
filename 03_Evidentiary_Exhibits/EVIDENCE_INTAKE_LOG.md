@@ -35,6 +35,10 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-23 | UK_National_Archives_Discovery.html | https://discovery.nationalarchives.gov.uk/ | OpenCode/harvest | 0592b62376dbd492e10a19ea9089361a962d29b23960c6da7a372113d153ddde | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=48240 final_url=https://discovery.nationalarchives.gov.uk/ |
+
+| 2026-11-23 | NZ_Archives.html | https://www.archives.govt.nz/ | OpenCode/harvest | d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=212 final_url=https://www.archives.govt.nz/ |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
